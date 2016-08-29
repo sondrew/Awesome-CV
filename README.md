@@ -1,5 +1,5 @@
 
-### Open pdf [here](resume.pdf)
+### Open pdf [here](cv.pdf)
 
 
 ![](page1.png)
